@@ -3,7 +3,7 @@
 </h1>
 
 # Sobre o Projeto
-Quarto desafio proposto no bootcamp Ignite da [Rocketseat](https://github.com/rocketseat-education)💜. Uma API para cadastro de usuários utilizando os principios do SOLID. 
+Quarto desafio proposto no bootcamp Ignite da [Rocketseat](https://github.com/rocketseat-education)💜. Uma API para cadastro de usuários utilizando os princípios do SOLID. 
 <br />
 <br />
 
