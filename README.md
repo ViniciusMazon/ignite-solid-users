@@ -20,6 +20,7 @@ Para rodar os testes, utilizar o script ``yarn test``
 * [Nodemon](https://www.npmjs.com/package/nodemon)
 * [NodeJS](https://nodejs.org/en/)
 * [Jest](https://jestjs.io/pt-BR/)
+* [Swagger-ui-express](https://www.npmjs.com/package/swagger-ui-express)
 <br />
 <br />
 
